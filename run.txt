@@ -1,0 +1,1 @@
+cd "c:\Users\Usuario\Desktop\VOD FINAL\" ; if ($?) { g++ main.cpp series.cpp episodes.cpp video.cpp movie.cpp movieReport.cpp seriesReport.cpp -o main } ; if ($?) { .\main }
